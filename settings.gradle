@@ -1,3 +1,0 @@
-include ':netclearance_ble_sdk'
-include ':app'
-rootProject.name = "netclearance_sdk_Android"
