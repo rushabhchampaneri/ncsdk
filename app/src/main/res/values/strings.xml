@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NetClearanceSDKExample</string>
+    <string name="is_bluetooth_support">Is Bluetooth Support</string>
+    <string name="is_bluetooth_on">Is Bluetooth On</string>
+    <string name="TimeOut">Connect</string>
+    <string name="note">Note:  you can add multiple service uuid using Comma(,) separator for scanning filter.\nFor Example: 000ABED45-0000-46FE-8CFA-DBE4750AABB4, C73E6128-2C25-46FE-8CFA-0A7GH7978GFD </string>
+    <string name="enter_service_uuid">Enter Service UUID</string>
+    <string name="service_uuid_hint">Service uuid: (Note: you can add multiple service uuid using Comma(,) separator for discover services.)</string>
+    <string name="_0x004c_0x10054b1c6709c0"><![CDATA[<0x004c> 0x10054b1c6709c0]]></string>
+    <string name="invalid_uuid">Invalid uuid</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="stop_scan">Stop Scan</string>
+</resources>

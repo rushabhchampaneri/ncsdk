@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ble_not_supported">BLE not supported in this device</string>
+    <string name="ble_scanner_null">BLE scanner is null.</string>
+    <string name="bluetooth_not_active">Bluetooth is not active</string>
+    <string name="location_not_active">Location is not active, Need to on location for scan BLE device</string>
+    <string name="location_permission_denied">Location permission aceess denied</string>
+    <string name="scan_failed">Scan failed</string>
+</resources>

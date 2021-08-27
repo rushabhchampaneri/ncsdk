@@ -1,1 +1,1 @@
-# ncsdk
+# netclearance_sdk_Android
